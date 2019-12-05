@@ -8,4 +8,4 @@ Fido = Dog.new
   # end
 
 end
-
+Fido.name = "Fido"
